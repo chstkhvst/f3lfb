@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\lab3layers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\dto\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\dto\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\lab3layers\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CBF187-6A8D-4850-8E0A-FFEEBB50FCB6}|..\\DAL\\DAL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\lab3layers\\contractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:contractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CBF187-6A8D-4850-8E0A-FFEEBB50FCB6}|..\\DAL\\DAL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\dal\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\lab3layers\\contractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:contractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\dto\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\lab3layers\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6C7A0A8-9EBF-42F5-AFDB-3EB6C5965409}|Lab3Layers.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CBF187-6A8D-4850-8E0A-FFEEBB50FCB6}|..\\DAL\\DAL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\dal\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\dto\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\dto\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CBF187-6A8D-4850-8E0A-FFEEBB50FCB6}|..\\DAL\\DAL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\dal\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CBF187-6A8D-4850-8E0A-FFEEBB50FCB6}|..\\DAL\\DAL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\dal\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CBF187-6A8D-4850-8E0A-FFEEBB50FCB6}|..\\DAL\\DAL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\dal\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CBF187-6A8D-4850-8E0A-FFEEBB50FCB6}|..\\DAL\\DAL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\dal\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CBF187-6A8D-4850-8E0A-FFEEBB50FCB6}|..\\DAL\\DAL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14AFA6-98D8-4322-87FB-3F2021D98EF3}|..\\BLL\\BLL.csproj|c:\\users\\hello\\desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Country.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTO\\Country.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Country.cs",
+              "RelativeToolTip": "..\\BLL\\DTO\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:06:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAABkBAAAAAAAAAAAkwCoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:57:36.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\Services\\ReportService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\ReportService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDcAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:22:32.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContractForm.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\ContractForm.cs",
+              "RelativeDocumentMoniker": "ContractForm.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\ContractForm.cs",
+              "RelativeToolTip": "ContractForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:27:01.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContractForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\ContractForm.cs",
+              "RelativeDocumentMoniker": "ContractForm.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\ContractForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ContractForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:33:35.808Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\ClientForm.cs",
+              "RelativeDocumentMoniker": "ClientForm.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:39:58.123Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:12:03.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:39:09.118Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\App.config",
+              "RelativeDocumentMoniker": "..\\BLL\\App.config",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\App.config",
+              "RelativeToolTip": "..\\BLL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T19:18:54.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\Services\\ClientService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\ClientService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:23:14.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\ContractService.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\Services\\ContractService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\ContractService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:00:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "country.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\country.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\country.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\country.cs",
+              "RelativeToolTip": "..\\DAL\\country.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:48:49.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "tour.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\tour.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\tour.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\tour.cs",
+              "RelativeToolTip": "..\\DAL\\tour.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:27:20.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Tour.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTO\\Tour.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Tour.cs",
+              "RelativeToolTip": "..\\BLL\\DTO\\Tour.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:26:55.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\employee.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\employee.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\employee.cs",
+              "RelativeToolTip": "..\\DAL\\employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:25:20.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTO\\Employee.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Employee.cs",
+              "RelativeToolTip": "..\\BLL\\DTO\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:25:14.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "client.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\client.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\client.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\client.cs",
+              "RelativeToolTip": "..\\DAL\\client.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:22:59.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Client.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTO\\Client.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Client.cs",
+              "RelativeToolTip": "..\\BLL\\DTO\\Client.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:22:53.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "contract.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\contract.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\contract.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\contract.cs",
+              "RelativeToolTip": "..\\DAL\\contract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:22:01.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Contract.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTO\\Contract.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\DTO\\Contract.cs",
+              "RelativeToolTip": "..\\BLL\\DTO\\Contract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:17:45.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "..\\DAL\\App.Config",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\App.Config",
+              "RelativeToolTip": "..\\DAL\\App.Config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T08:14:50.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-12T16:18:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\Model1.edmx",
+              "RelativeDocumentMoniker": "..\\DAL\\Model1.edmx",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "..\\DAL\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-12T16:15:10.556Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\BLL\\Class1.cs",
+              "RelativeToolTip": "..\\BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:06:30.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\DAL\\Class1.cs",
+              "RelativeToolTip": "..\\DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:05:48.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:00:46.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\hello\\Desktop\\uchyoba\\\u043B\u0430\u0431\u044B \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab3Layers\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:00:27.722Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
